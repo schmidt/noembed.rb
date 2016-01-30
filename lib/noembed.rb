@@ -1,7 +1,16 @@
+# Load libraries
+require "json"
+
+# Load bundled gems
+require 'rubygems'
+require 'bundler'
+
+Bundler.require
+
+# Define main name space
 module NoEmbed
 end
 
-require "json"
-
+# Load actual code
 require "noembed/app"
 require "noembed/version"
