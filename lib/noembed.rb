@@ -13,4 +13,7 @@ end
 
 # Load actual code
 require "noembed/app"
+require "noembed/provider"
+require "noembed/providers"
+require "noembed/response"
 require "noembed/version"
