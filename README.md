@@ -2,7 +2,7 @@ noembed.rb
 ==========
 
 This is a reimplementation of [noembed.com](https://noembed.com/) using
-(Ruby)(https://ruby-lang.org).
+[Ruby](https://ruby-lang.org).
 
 It builds on [ruby-oembed](https://github.com/judofyr/ruby-oembed) and
 [Sinatra](http://www.sinatrarb.com/).
