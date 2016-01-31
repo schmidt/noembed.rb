@@ -7,6 +7,36 @@ This is a reimplementation of [noembed.com](https://noembed.com/) using
 [Sinatra](http://www.sinatrarb.com/).
 
 
+Supported providers
+-------------------
+
+*Please note:* Provider support is solely based on the ruby-oembed gem.
+
+noembed.rb supports the following list of providers:
+
+  * [Flickr](https://flickr.com/)
+  * [Hulu](http://www.hulu.com/)
+  * [Imgur](https://imgur.com/)
+  * [Instagram](https://www.instagram.com/)
+  * [Major League Gaming TV](http://tv.majorleaguegaming.com/)
+  * [MovieClips](http://www.movieclips.com/)
+  * [National Film Board of Canada](https://www.nfb.ca/)
+  * [Poll Everywhere](https://www.polleverywhere.com/)
+  * [Qik](https://www.skype.com/en/qik/)
+  * [Revision3](https://revision3.com/)
+  * [Scribd](https://www.scribd.com/)
+  * [Skitch](https://evernote.com/skitch/)
+  * [SlideShare](http://www.slideshare.net/)
+  * [SoundCloud](https://soundcloud.com/)
+  * [Spotify](https://www.spotify.com/)
+  * [23](http://23hq.com/)
+  * [Twitter](https://twitter.com/)
+  * [Viddler](http://www.viddler.com/)
+  * [Vimeo](https://vimeo.com/)
+  * [Vine](https://vine.co/)
+  * [YouTube](https://youtube.com/)
+
+
 Getting started
 ---------------
 

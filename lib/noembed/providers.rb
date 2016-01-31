@@ -6,7 +6,6 @@ module NoEmbed::Providers
     NoEmbed::Provider.new("Instagram", OEmbed::Providers::Instagram),
     NoEmbed::Provider.new("Major League Gaming TV", OEmbed::Providers::MlgTv),
     NoEmbed::Provider.new("MovieClips", OEmbed::Providers::MovieClips),
-    NoEmbed::Provider.new("MyOpera", OEmbed::Providers::MyOpera),
     NoEmbed::Provider.new("National Film Board of Canada", OEmbed::Providers::NFBCanada),
     NoEmbed::Provider.new("Poll Everywhere", OEmbed::Providers::PollEverywhere),
     NoEmbed::Provider.new("Qik", OEmbed::Providers::Qik),
@@ -21,7 +20,6 @@ module NoEmbed::Providers
     NoEmbed::Provider.new("Viddler", OEmbed::Providers::Viddler),
     NoEmbed::Provider.new("Vimeo", OEmbed::Providers::Vimeo),
     NoEmbed::Provider.new("Vine", OEmbed::Providers::Vine),
-    NoEmbed::Provider.new("Yfrog", OEmbed::Providers::Yfrog),
     NoEmbed::Provider.new("YouTube", OEmbed::Providers::Youtube)
   ].each(&:register)
 
