@@ -47,7 +47,7 @@ BlueOcean and other Ruby hosting providers. Contributions are welcome.
 
 Until then: noembed.rb is a simple modular Sinatra app, which comes with a
 Gemfile to define its dependencies and a config.ru for simple deployments. All
-the rules, that apply to Sinatra applications, will also work on noembed.rb.
+the rules, that apply to Sintra applications, will also work on noembed.rb.
 
 You won't need external services like storage, database access and such.
 
