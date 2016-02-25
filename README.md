@@ -45,7 +45,7 @@ Getting started
 This section will list instructions on how to run noembed.rb on Heroku,
 BlueOcean and other Ruby hosting providers. Contributions are welcome.
 
-Until then: noembed.rb is a simple modular sinatra app, which comes with a
+Until then: noembed.rb is a simple modular Sinatra app, which comes with a
 Gemfile to define its dependencies and a config.ru for simple deployments. All
 the rules, that apply to Sinatra applications, will also work on noembed.rb.
 
